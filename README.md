@@ -1,1 +1,1 @@
-# AaryeshAD1601.github.io
+E-mobility AI battery set and fuel data models for researches in electric vehicle concepts driven by batteries and mobile fuel cells both at system level of the integrated drive train and at component level in networked and automated networks. Hook val no 1
